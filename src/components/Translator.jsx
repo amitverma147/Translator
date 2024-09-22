@@ -142,7 +142,7 @@ const Translator = () => {
   return (
     <div className="flex flex-col min-h-screen bg-gray-100">
       <div>
-        <h1 className="text-4xl pt-6 mt-6 flex items-center justify-center font-bold">
+        <h1 className="text-5xl pt-6 mt-6 flex items-center justify-center font-bold">
           Real Time Translation App
         </h1>
       </div>
